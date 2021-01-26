@@ -11,3 +11,8 @@ In this case, I'm using:
   
   . AR Core 3.1.18
 
+We will be using a free Spider model from the Asset Store. 
+
+The Placement Indicator art is used from Flaticon.com
+
+Merci beaucoup.
